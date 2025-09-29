@@ -24,8 +24,8 @@ Tenho experiência prática com **Postman, GitHub, testes manuais, APIs e automa
 
 ## 📌 Alguns Projetos  
 
-🔗 [Teste de automação]()  
-📄 
+🔗 [Teste de automação](https://github.com/blayoficial/automationexercise-cypress-e2e)  
+📄 Cobrindo desde 
 
 🔗 [Teste manual de fluxo de compra no site SauceDemo](https://github.com/ewellyn-m/TestesManuais-FluxoCompletoDeCompra/tree/main)  
 📄 
