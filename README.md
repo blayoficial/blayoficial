@@ -24,7 +24,7 @@ Tenho experiência prática com **Postman, GitHub, testes manuais, APIs e automa
 
 ## 📌 Alguns Projetos  
 
-🔗 [Teste de automação](https://github.com/blayoficial/automationexercise-cypress-e2e)  
+### 🔗 [Teste de automação] (https://github.com/blayoficial/automationexercise-cypress-e2e)  
 📄 Este projeto demonstra a criação de testes automatizados E2E em um e-commerce de demonstração, validando fluxos críticos como: <br>
 
 -Navegação e interação com a home page <br>
@@ -33,9 +33,6 @@ Tenho experiência prática com **Postman, GitHub, testes manuais, APIs e automa
 -Adição e validação de produtos no carrinho <br>
 -Finalização do pedido com dados de pagamento <br>
 **O projeto aplica boas práticas de automação, como funções reutilizáveis, dados dinâmicos e validações de elementos visíveis.**
-
-🔗 [Teste manual de fluxo de compra no site SauceDemo](https://github.com/blayoficial/Automa-ao-Fluxo-Bancario)  
-📄 
 ---
 
 ## 🌐 Conecte-se comigo  
